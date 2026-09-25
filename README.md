@@ -1,5 +1,5 @@
-https://github.com# mailguard-ai
-https://mail-guard-six.vercel.appmailguard-ai/
+https://mail-guard-six.vercel.app
+https://github.com
 ├── app/
 │   ├── api/
 │   │   └── analyze/
